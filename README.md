@@ -6,6 +6,8 @@ Data Analysis is perfomed on four level
   - Sports Analysis
   - Athlete Analysis
 
+* * *
+
 Modules Used
   - Pandas
   - streamlit
@@ -13,6 +15,7 @@ Modules Used
   - seaborn
   - matplotlib
 
+* * *
 
 DataSet: Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
