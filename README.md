@@ -1,2 +1,18 @@
 # Olympics-Data-Analysis-Project
-I will be building an Olympics Data Analysis Web Application using Streamlit. For development, I will be using Python and Pandas. For plotting, I will be using Seaborn and Plotly libraries.
+
+Data Analysis is perfomed on four level
+  - Overall Analysis
+  - Country Analysis
+  - Sports Analysis
+  - Athlete Analysis
+
+Modules Used
+  - Pandas
+  - streamlit
+  - plotly
+  - seaborn
+  - matplotlib
+
+
+DataSet: Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+
